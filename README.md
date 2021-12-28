@@ -1,2 +1,4 @@
 # Carousel
-<img src="carousel.gif" />
+<div align="center">
+  <img src="carousel.gif" />
+</div>
